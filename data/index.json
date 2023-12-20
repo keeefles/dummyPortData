@@ -1,0 +1,123 @@
+{
+    "jobTitle": [
+        {
+            "title": "a software developer",
+            "color": "rgb(57, 153, 0)"
+        },
+        {
+            "title": "a UI/UX designer",
+            "color": "rgb(157, 100, 0)"
+        },
+        {
+            "title": "an IT Student",
+            "color": "rgb(0, 172, 230)"
+        }    
+    ],
+    "about": [
+        "I graduated at Tshwane University of Technology in 2014 as a Software Developer and I've gained knowledge in data science, database, programming, data analysis, project management and many more.",
+        "I am currently employed as a coding lecturer at Life Choices and also run my own business, JT Devs. As a part-time YouTuber, I teach people different programming languages."
+    ],
+    "education": [
+        {
+            "id": 1,
+            "year": 2023,
+            "description": "Studied Web Development",
+            "place": "Life Choices",
+            "type": "Currently Acquiring...",
+            "certificate": "https://drive.google.com/file/d/1qd2xS-HvI4c_C4vf1-Z1R_bPxzF7SZ-t/view"
+        },
+        {
+            "id": 2,
+            "year": 2022,
+            "description": "Matric - Grade 12",
+            "place": "Glendale Secondary School",
+            "type": "certificate",
+            "certificate": "https://drive.google.com/file/d/1-f1yRukcXLo0e8ip3Cb7Z3D29Er9ENn_/view"
+        }
+    ],
+    "skills": [
+        {
+            "title": "HTML 5",
+            "experience": "Advanced"
+        },
+        {
+            "title": "CSS",
+            "experience": "Advanced"
+        },
+        {
+            "title": "Bootstrap",
+            "experience": "Advanced"
+        },
+        {
+            "title": "Vue 3",
+            "experience": "Beginner"
+        },
+        {
+            "title": "JavaScript",
+            "experience": "Intermediate"
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "Rachel",
+            "surname": "Mukanya",
+            "quotes": "Joel never ceases to amaze me with the vast amount of knowledge he has acquired over the years in software development. He is truly a great mentor.",
+            "profile": "https://i.postimg.cc/SRBL8qnC/rachel.jpg"
+        },
+        {
+            "name": "Ruth",
+            "surname": "Mukanya",
+            "quotes": "Joel is a nice person. Someone who is really reliable and honest always does his work and makes sure everything is well organized.",
+            "profile": "https://i.postimg.cc/DyGHNwPV/ruth.jpg"
+        },
+        {
+            "name": "Lazola",
+            "surname": "Makubalo",
+            "quotes": "Joel Tshimanga Mukunya is an incredibly humble intellectual. He is an outstanding lecturer who consistently finds effective ways to ensure that everyone comprehends the content. Additionally, he has a delightful personality, making him a joy to be around.",
+            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+        },
+        {
+            "name": "Dr. Godwin P",
+            "surname": "Dzvapatsva",
+            "quotes": "I am thrilled to share my heartfelt testimonial for Joel, a remarkable former co-worker and lecturer. Joel worked under my guidance for one year during my time as Head of Curriculum and Learning at Lifechoices Academy. His expertise in C++, HTML, CSS, Vue.js, JavaScript, and Node.js is truly impressive, and he effortlessly demonstrates proficiency in these technologies. However, what truly sets Joel apart is his exceptional teaching skills. He has a natural talent for breaking down complex concepts into easily digestible bits, making the learning process enjoyable and engaging. Joel's patience and willingness to go the extra mile to ensure every student grasps the material are truly commendable. I consider myself fortunate to have learned from him, and I wholeheartedly recommend him as an outstanding educator.",
+            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+        }
+    ],
+    "projects":[
+        {
+            "name": "To-do List",
+            "description": "I built this application using HTML 5, CSS, and Javascript.",
+            "image": "https://i.postimg.cc/tTF7RMr1/todoList.png",
+            "gitHub": "https://github.com/codjoelmayer/todoApp_js.git",
+            "netlify": "https://joel-todo-list.netlify.app/"
+        },
+        {
+            "name": "Calculator",
+            "description": "This is my calculator app, and I built it using HTML 5, CSS 3, Javascript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
+            "image": "https://i.postimg.cc/vH8q91JB/reg-Exp-Calculator.png",
+            "gitHub": "https://github.com/codjoelmayer/regExpCalculator.git",
+            "netlify": "https://regexpcalculator.netlify.app/"
+        },
+        {
+            "name": "Netflix Clone",
+            "description": "I cloned netflix using HTML 5, CSS 3, and Bootstrap.",
+            "image": "...",
+            "gitHub": "https://github.com/keeefles/netflix.git",
+            "netlify": "https://6541583d31c39a4eaa803fc4--aakeefahs-netflix.netlify.app/"
+        },
+        {
+            "name": "JT Laptop",
+            "description": "An eCommerce site built using HTML 5, CSS, Javascript, and Bootstrap 5",
+            "image": "https://i.postimg.cc/g2YVCx3R/JTLaptop.png",
+            "gitHub": "https://github.com/codjoelmayer/JTLaptops.git",
+            "netlify": "https://jtlaptops.netlify.app/"
+        },
+        {
+            "name": "JS Portfolio",
+            "description": "I built my portfolio using HTML 5, CSS, Bootstrap, and Javascript. I am using JS to display my dynamic content.",
+            "image": "https://i.postimg.cc/W4m3tkbb/js-Portfolio.png",
+            "gitHub": "https://github.com/codjoelmayer/PortfolioWithBSAndJS.git",
+            "netlify": "https://joeljsportfolio.netlify.app/"
+        }
+    ]
+}
